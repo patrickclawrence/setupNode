@@ -1,8 +1,8 @@
 
 Git global setup
 ```
-git config --global user.name "LAWRENCE, PATRICK"
-git config --global user.email "patrickclawrence@gmail.com"
+git config --global user.name "YOUR NAME"
+git config --global user.email "email@gmail.com"
 ```
 
 Create a new repository
