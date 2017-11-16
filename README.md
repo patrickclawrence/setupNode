@@ -19,7 +19,7 @@ Existing folder or Git repository
 ```
 cd existing_folder
 git init
-git remote add origin git@origin-p4gs.rws.ad.ea.com:hub3/hub3_analytics.git
+git remote add origin git@REPO_LOCATION
 git add .
 git commit
 git push -u origin master
